@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/02/2019, 08:19:02 AM
+    Author     : Estudiante
+*/
+
+.boton {
+    background: white;
+    border: 2px solid #009926;
+    padding:  10px;
+    color: #009926;
+    text-align: center;
+    float: left;
+    font-size: 14px;
+    transition: .2s color linear, 1.25s background linear;
+}
+
+.boton:hover {
+    background: #009926;
+    color: white;
+    font-size: 16px;
+}
